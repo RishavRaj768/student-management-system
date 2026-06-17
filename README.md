@@ -18,6 +18,7 @@ Conditional Statements
 File Handling
 How to Run
 python index.py
-Author
 
+
+Author
 Rishav Raj
